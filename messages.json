@@ -10,3 +10,100 @@
   "recipient": "+27718693002",
   "message": "Hi Mike, can you join us for dinner tonight?"
 }
+{
+  "messageID": "4723833028",
+  "messageHash": "47:1:HIPAYMENT",
+  "recipient": "+2718693002",
+  "message": "Hi keagan, did you recieve the payment "
+}
+{
+  "messageID": "2000000002",
+  "messageHash": "20:1:WHERETIME",
+  "sender": "System User",
+  "recipient": "+27838884567",
+  "message": "Where are you? You are late! I have asked you to be on time."
+}
+{
+  "messageID": "5000000005",
+  "messageHash": "50:4:OKYOU",
+  "sender": "System User",
+  "recipient": "+27838884567",
+  "message": "Ok, I am leaving without you."
+}
+{
+  "messageID": "0055555555",
+  "messageHash": "00:2:HITONIGHT",
+  "sender": "System User",
+  "recipient": "+27718693002",
+  "message": "Hi Mike, can you join us for dinner tonight?"
+}
+{
+  "messageID": "2000000002",
+  "messageHash": "20:1:WHERETIME",
+  "sender": "System User",
+  "recipient": "+27838884567",
+  "message": "Where are you? You are late! I have asked you to be on time."
+}
+{
+  "messageID": "5000000005",
+  "messageHash": "50:4:OKYOU",
+  "sender": "System User",
+  "recipient": "+27838884567",
+  "message": "Ok, I am leaving without you."
+}
+{
+  "messageID": "2000000002",
+  "messageHash": "20:1:WHERETIME",
+  "sender": "System User",
+  "recipient": "+27838884567",
+  "message": "Where are you? You are late! I have asked you to be on time."
+}
+{
+  "messageID": "5000000005",
+  "messageHash": "50:4:OKYOU",
+  "sender": "System User",
+  "recipient": "+27838884567",
+  "message": "Ok, I am leaving without you."
+}
+{
+  "messageID": "2000000002",
+  "messageHash": "20:1:WHERETIME",
+  "sender": "System User",
+  "recipient": "+27838884567",
+  "message": "Where are you? You are late! I have asked you to be on time."
+}
+{
+  "messageID": "5000000005",
+  "messageHash": "50:4:OKYOU",
+  "sender": "System User",
+  "recipient": "+27838884567",
+  "message": "Ok, I am leaving without you."
+}
+{
+  "messageID": "2000000002",
+  "messageHash": "20:1:WHERETIME",
+  "sender": "System User",
+  "recipient": "+27838884567",
+  "message": "Where are you? You are late! I have asked you to be on time."
+}
+{
+  "messageID": "5000000005",
+  "messageHash": "50:4:OKYOU",
+  "sender": "System User",
+  "recipient": "+27838884567",
+  "message": "Ok, I am leaving without you."
+}
+{
+  "messageID": "2000000002",
+  "messageHash": "20:1:WHERETIME",
+  "sender": "System User",
+  "recipient": "+27838884567",
+  "message": "Where are you? You are late! I have asked you to be on time."
+}
+{
+  "messageID": "5000000005",
+  "messageHash": "50:4:OKYOU",
+  "sender": "System User",
+  "recipient": "+27838884567",
+  "message": "Ok, I am leaving without you."
+}
